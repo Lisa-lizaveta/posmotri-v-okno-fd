@@ -279,7 +279,7 @@ ol {
 }
 
 .content__video-card-title {
-  max-inline-size: 100%;
+  max-inline-size: 322px;
   padding-block-end: 6px;
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
